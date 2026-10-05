@@ -74,7 +74,3 @@ After running the application, users can:
 
 MedTrack is intended to help users organize medication and health information. It is not a substitute for professional medical advice, diagnosis, or treatment. Users should always consult a qualified healthcare provider for medical concerns.
 
-## Contribution
-
-All codes implemented and tested by Yile Chen
-
